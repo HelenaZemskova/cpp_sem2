@@ -1,3 +1,5 @@
+//g++ -std=c++23 -Wall -Wextra -o 07_03 07_03.cpp && ./07_03
+
 // void test(Person const & person)
 // {
 //     std::cout << "test: " << person.name() << '\n';
